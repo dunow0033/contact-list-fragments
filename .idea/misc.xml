@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/contact-list-fragments/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/contact-list-fragments/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/contact-list-fragments/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/david/AndroidStudioProjects/ContactList2/app/src/main/res/layout/activity_main.xml" value="0.10099637681159421" />
         <entry key="..\:/Users/david/AndroidStudioProjects/ContactList2/app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="..\:/Users/david/AndroidStudioProjects/ContactList2/app/src/main/res/layout/fragment_first.xml" value="0.25" />
